@@ -685,7 +685,7 @@ header .container .row
 /*------------------ Footer section styling -------------------*/
 footer
 {
-	background: url(img/footer-bg.jpg);
+	padding: 50px 0px 50px 0px;
 	background-size: contain;
 	background-position: bottom center;
 	background-repeat: no-repeat;
