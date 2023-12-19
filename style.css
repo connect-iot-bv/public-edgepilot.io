@@ -728,6 +728,26 @@ footer .container .heading
 
 
 
+/*------------------ 404 section styling -------------------*/
+
+
+.not-found-container {
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 84vh;
+	position: relative;
+}
+
+.not-found-container .not-found-text {
+	padding: 20px 0 20px 0;
+}
+
+.not-found-container .not-found-image {
+	width: 20%;
+}
+/*------------------ 404 section styling end -------------------*/
 
 /*-----------------------------------------------------------*/
 /*---------------- Desktop screen styling ---------------*/
