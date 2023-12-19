@@ -724,6 +724,11 @@ footer .container .heading
 	background-color: var(--primary-color);
 	text-align: center;
 }
+
+.footer-copy a {
+	color: #fff;
+	text-decoration: underline;
+}
 /*------------------ Footer section styling -------------------*/
 
 
